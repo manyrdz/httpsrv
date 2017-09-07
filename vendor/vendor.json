@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "x2Km0Qy3WgJJnV19Zv25VwTJcBM=",
+			"path": "github.com/fsnotify/fsnotify",
+			"revision": "4da3e2cfbabc9f751898f250b49f2439785783a1",
+			"revisionTime": "2017-03-29T04:21:07Z"
+		},
+		{
+			"checksumSHA1": "bCK1xEu/yCvgTdFAIoltGryWW6I=",
+			"path": "golang.org/x/sys/plan9",
+			"revision": "9aade4d3a3b7e6d876cd3823ad20ec45fc035402",
+			"revisionTime": "2017-09-05T23:24:40Z"
+		},
+		{
+			"checksumSHA1": "NCjxmUUgENsdpvPnlk5rBOcSHHU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "9aade4d3a3b7e6d876cd3823ad20ec45fc035402",
+			"revisionTime": "2017-09-05T23:24:40Z"
+		},
+		{
+			"checksumSHA1": "gVfCD++7aVcdKF2spv6XkEM/wYw=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "9aade4d3a3b7e6d876cd3823ad20ec45fc035402",
+			"revisionTime": "2017-09-05T23:24:40Z"
+		}
+	],
+	"rootPath": "github.com/manyrdz/httpsrv"
+}
